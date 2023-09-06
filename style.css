@@ -101,6 +101,7 @@ span{
 
 @media (max-width: 600px) {
   .musics, .lista-btn, .banner{
-    width: 500px;
+    width: 100%;
   }
+  
 }
